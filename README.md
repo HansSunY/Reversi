@@ -54,19 +54,19 @@ Roxanne在《Analysis of Monte Carlo Techniques in Othello》文中结合行动�
 
 ### 选择是否先手并开始游戏
 
-<img src="C:\Users\拂晓\AppData\Roaming\Typora\typora-user-images\image-20220427084920987.png" alt="image-20220427084920987" style="zoom:50%;" />
+<img src="https://github.com/HansSunY/Reversi/blob/main/IMG/image-20220427084920987.png" alt="image-20220427084920987" style="zoom:50%;" />
 
 ### 玩家落子后AI开始思考并落子
 
 棋盘下方提示AI正在思考
 
-<img src="C:\Users\拂晓\AppData\Roaming\Typora\typora-user-images\image-20220427085306209.png" alt="image-20220427085306209" style="zoom:50%;" />
+<img src="https://github.com/HansSunY/Reversi/blob/main/IMG/image-20220427085306209.png" alt="image-20220427085306209" style="zoom:50%;" />
 
 AI落子并在棋盘下方显示落子位置（x，y）及花费时间
 
-<img src="C:\Users\拂晓\AppData\Roaming\Typora\typora-user-images\image-20220427110751494.png" alt="image-20220427110751494" style="zoom: 50%;" />
+<img src="https://github.com/HansSunY/Reversi/blob/main/IMG/image-20220427110751494.png" alt="image-20220427110751494" style="zoom: 50%;" />
 
-<img src="C:\Users\拂晓\AppData\Roaming\Typora\typora-user-images\image-20220427085450954.png" alt="image-20220427085450954" style="zoom:50%;" />
+<img src="https://github.com/HansSunY/Reversi/blob/main/IMG/image-20220427085450954.png" alt="image-20220427085450954" style="zoom:50%;" />
 
 
 
@@ -74,17 +74,17 @@ AI落子并在棋盘下方显示落子位置（x，y）及花费时间
 
 ### 当无合法棋步时给出提示并交换下棋方
 
-<img src="C:\Users\拂晓\AppData\Roaming\Typora\typora-user-images\image-20220427085848162.png" alt="image-20220427085848162" style="zoom:50%;" />
+<img src="https://github.com/HansSunY/Reversi/blob/main/IMG/image-20220427120611186.png" alt="image-20220427120611186" style="zoom:50%;" />
 
 ### 游戏结束
 
 显示获胜方及对局总时间
 
-<img src="C:\Users\拂晓\AppData\Roaming\Typora\typora-user-images\image-20220427102140337.png" alt="image-20220427102140337" style="zoom:50%;" />
+<img src="https://github.com/HansSunY/Reversi/blob/main/IMG/image-20220427102140337.png" alt="image-20220427102140337" style="zoom:50%;" />
 
 ### 点击“重新开始”按钮重新开始游戏
 
-<img src="C:\Users\拂晓\AppData\Roaming\Typora\typora-user-images\image-20220427090211133.png" alt="image-20220427090211133" style="zoom:50%;" />
+<img src="https://github.com/HansSunY/Reversi/blob/main/IMG/image-20220427120823037.png" alt="image-20220427120823037" style="zoom:50%;" />
 
 ## 代码及注释
 
